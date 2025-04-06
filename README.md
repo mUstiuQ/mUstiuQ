@@ -40,4 +40,4 @@ I'm always experimenting with new tech and building smart systems.
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**mUstiuQ**&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mUstiuQ&layout=compact)
