@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**mUstiuQ/mUstiuQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+**Undergraduate Student** at *Universitatea Politehnică Timișoara*  
+**Faculty**: Automation and Computers – *Systems Engineering*  
+📅 Born: *25 January 2005*  
+🏡 From: *Hațeg, Hunedoara, Romania*  
+📍 Living in: *Timișoara, Timiș, Romania*  
+🏫 Former student at *Theoretical High School I.C. Brătianu, Hațeg*  
+📧 Email: david.fodoka@student.upt.ro  
+📞 Phone: +40 762 090 141
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+Check out my pinned repositories below to see what I'm working on!  
+I'm always experimenting with new tech and building smart systems.
+
+---
+
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,py,matlab,obsidian&perline=6)](https://skillicons.dev)
+
+---
+
+## 🔥 Passionate About
+
+[![My Interests](https://skillicons.dev/icons?i=arduino,opencv,tensorflow&perline=6)](https://skillicons.dev)
+
+---
+
+## 💻 Favorite Code Editors / IDEs
+
+[![Editors](https://skillicons.dev/icons?i=vscode,idea,pycharm,rider,arduino&perline=6)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**mUstiuQ**&layout=compact)
