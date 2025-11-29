@@ -22,7 +22,7 @@ I'm always experimenting with new tech and building smart systems.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,git,py,matlab&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,swift,flutter,dart,sql,mysql,spring,html,css,git,py,matlab&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -34,7 +34,7 @@ I'm always experimenting with new tech and building smart systems.
 
 ## 💻 Favorite Code Editors / IDEs
 
-[![Editors](https://skillicons.dev/icons?i=vscode,idea,pycharm,rider,arduino&perline=6)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=vscode,idea,pycharm,rider,arduino,mysql&perline=6)](https://skillicons.dev)
 
 ---
 
