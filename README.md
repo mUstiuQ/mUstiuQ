@@ -22,7 +22,7 @@ I'm always experimenting with new tech and building smart systems.
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,swift,flutter,dart,sql,mysql,spring,html,css,git,py,matlab&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,swift,flutter,dart,mysql,spring,html,css,git,py,matlab&perline=6)](https://skillicons.dev)
 
 ---
 
